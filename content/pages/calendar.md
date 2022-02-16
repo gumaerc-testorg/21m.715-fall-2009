@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 178b59ab-fc3d-da05-70cf-d2ef8ebaf902
 ---
@@ -44,10 +46,10 @@ Create headblock
 {{< tdopen >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Craft felt hat]({{< baseurl >}}/pages/assignments#Millinery)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Design sketch of hat
@@ -88,10 +90,10 @@ Jacket
 {{< tdopen >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Duct tape corset]({{< baseurl >}}/pages/assignments#Corsets)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 1 roll of duct tape
@@ -114,10 +116,10 @@ Selection of corset style
 {{< tdopen >}}
 8
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Jacket transformation]({{< baseurl >}}/pages/assignments#Painting,%20dyeing,%20and%20distressing)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Paints
@@ -158,10 +160,10 @@ Open studio: work on hat, jacket as needed
 {{< tdopen >}}
 12
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Gauntlets]({{< baseurl >}}/pages/assignments#Armor)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Glove design sketch
@@ -192,10 +194,10 @@ Paint, embellishments
 {{< tdopen >}}
 15
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Period Wig]({{< baseurl >}}/pages/assignments#Wigs)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 "hair"
 {{< tdclose >}}
 
@@ -216,10 +218,10 @@ Paint, embellishments
 {{< tdopen >}}
 18
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Life Mask]({{< baseurl >}}/pages/assignments#Masks)
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Hairband
@@ -250,7 +252,7 @@ Embellishments, paint
 {{< tdopen >}}
 21
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Period Jewelry]({{< baseurl >}}/pages/assignments#Jewelry)
 {{< tdclose >}}
 {{< tdopen >}}
