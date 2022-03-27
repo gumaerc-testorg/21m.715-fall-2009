@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 10edce5b-1fdf-fa62-9dea-c4ba007c5217
 resourcetype: Document
 title: Concepts to Explore
 uid: fb0ea813-e038-08fa-492a-8b3ff9f624c0

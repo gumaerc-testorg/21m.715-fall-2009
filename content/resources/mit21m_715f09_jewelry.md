@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 10edce5b-1fdf-fa62-9dea-c4ba007c5217
 resourcetype: Document
 title: Examples of Historic Jewelry
 uid: 12e76c70-1771-fb09-eae5-836941a77519
