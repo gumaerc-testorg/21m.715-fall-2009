@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of course activities and
+  information on related materials.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 178b59ab-fc3d-da05-70cf-d2ef8ebaf902
 ---
 
-Full descriptions of each activity are available on the [Assignments]({{< baseurl >}}/pages/assignments) page.
+Full descriptions of each activity are available on the {{% resource_link 10edce5b-1fdf-fa62-9dea-c4ba007c5217 "Assignments" %}} page.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -44,10 +48,10 @@ Create headblock
 {{< tdopen >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
-[Craft felt hat]({{< baseurl >}}/pages/assignments#Millinery)
+{{< tdopen rowspan="3" >}}
+{{% resource_link 10edce5b-1fdf-fa62-9dea-c4ba007c5217 "Craft felt hat" "#Millinery" %}}
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Design sketch of hat
@@ -77,7 +81,7 @@ Embellishments
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Fabric manipulation and distressing demo]({{< baseurl >}}/pages/assignments#Painting,%20dyeing,%20and%20distressing)
+{{% resource_link 10edce5b-1fdf-fa62-9dea-c4ba007c5217 "Fabric manipulation and distressing demo" "#Painting,%20dyeing,%20and%20distressing" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Jacket
@@ -88,10 +92,10 @@ Jacket
 {{< tdopen >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
-[Duct tape corset]({{< baseurl >}}/pages/assignments#Corsets)
+{{< tdopen rowspan="2" >}}
+{{% resource_link 10edce5b-1fdf-fa62-9dea-c4ba007c5217 "Duct tape corset" "#Corsets" %}}
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 1 roll of duct tape
@@ -114,10 +118,10 @@ Selection of corset style
 {{< tdopen >}}
 8
 {{< tdclose >}}
-{{< tdopen >}}
-[Jacket transformation]({{< baseurl >}}/pages/assignments#Painting,%20dyeing,%20and%20distressing)
+{{< tdopen rowspan="3" >}}
+{{% resource_link 10edce5b-1fdf-fa62-9dea-c4ba007c5217 "Jacket transformation" "#Painting,%20dyeing,%20and%20distressing" %}}
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Paints
@@ -158,10 +162,10 @@ Open studio: work on hat, jacket as needed
 {{< tdopen >}}
 12
 {{< tdclose >}}
-{{< tdopen >}}
-[Gauntlets]({{< baseurl >}}/pages/assignments#Armor)
+{{< tdopen rowspan="3" >}}
+{{% resource_link 10edce5b-1fdf-fa62-9dea-c4ba007c5217 "Gauntlets" "#Armor" %}}
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Glove design sketch
@@ -192,10 +196,10 @@ Paint, embellishments
 {{< tdopen >}}
 15
 {{< tdclose >}}
-{{< tdopen >}}
-[Period Wig]({{< baseurl >}}/pages/assignments#Wigs)
+{{< tdopen rowspan="3" >}}
+{{% resource_link 10edce5b-1fdf-fa62-9dea-c4ba007c5217 "Period Wig" "#Wigs" %}}
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 "hair"
 {{< tdclose >}}
 
@@ -216,10 +220,10 @@ Paint, embellishments
 {{< tdopen >}}
 18
 {{< tdclose >}}
-{{< tdopen >}}
-[Life Mask]({{< baseurl >}}/pages/assignments#Masks)
+{{< tdopen rowspan="3" >}}
+{{% resource_link 10edce5b-1fdf-fa62-9dea-c4ba007c5217 "Life Mask" "#Masks" %}}
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Hairband
@@ -250,8 +254,8 @@ Embellishments, paint
 {{< tdopen >}}
 21
 {{< tdclose >}}
-{{< tdopen >}}
-[Period Jewelry]({{< baseurl >}}/pages/assignments#Jewelry)
+{{< tdopen rowspan="2" >}}
+{{% resource_link 10edce5b-1fdf-fa62-9dea-c4ba007c5217 "Period Jewelry" "#Jewelry" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, grading, and suggested field trips for materials and inspiration.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: bb19ed5f-a857-eca0-607a-02e141521790
 ---

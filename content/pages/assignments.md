@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: This section describes the activities worked on during the semester,
+  including materials and sources. Activities include millinery, painting, dying,
+  distressing, corsets, armor, wigs, masks, and jewelry.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 10edce5b-1fdf-fa62-9dea-c4ba007c5217
 ---
 
-This page describes the activities worked on during the semester, including materials and sources. Some activities have photos of student work available on the [Image Galleries]({{< baseurl >}}/pages/image-galleries) page.
+This page describes the activities worked on during the semester, including materials and sources. Some activities have photos of student work available on the {{% resource_link 3b349044-e847-540e-5df0-8ea086e51650 "Image Galleries" %}} page.
 
 {{< anchor "Millinery" >}}Millinery{{< /anchor >}}
 --------------------------------------------------
@@ -15,7 +21,7 @@ Materials: craft felt, embellishments, forms.
 
 ### Resources
 
-[Student Work Photos]({{< baseurl >}}/pages/image-galleries/hats-gallery)
+{{% resource_link 66e0a2f6-99f2-be51-739d-97cf7a5f7d7e "Student Work Photos" %}}
 
 {{< anchor "Painting__dyeing__and_distressing" >}}Painting, dyeing, and distressing{{< /anchor >}}
 --------------------------------------------------------------------------------------------------
@@ -28,7 +34,7 @@ Materials: Light colored jacket from the thrift store, stamps, stencils, paints,
 
 [Distressing Fabric](http://www.alleycatscratch.com/lotr/Fabric/Distressing.htm). _Alley Cat Scratch_, April 22, 2008.
 
-[Student Work Photos]({{< baseurl >}}/pages/image-galleries/textiles-gallery)
+{{% resource_link f4be1332-9e4d-5996-8106-11f045de8015 "Student Work Photos" %}}
 
 {{< anchor "Corsets" >}}Corsets{{< /anchor >}}
 ----------------------------------------------
@@ -50,7 +56,7 @@ Pollack, Rachel E. "[Classwork: Final Armor Projects](http://labricoleuse.livejo
 
 "[Faking Leather](http://www.alleycatscratch.com/lotr/Leather/FakingLeather.htm)." _Alley Cat Scratch_, April 22, 2008.
 
-[Student Work Photos]({{< baseurl >}}/pages/image-galleries/gauntlets-gallery)
+{{% resource_link 4f6534c9-4946-8568-b07a-6c093cd5a03b "Student Work Photos" %}}
 
 {{< anchor "Wigs" >}}Wigs{{< /anchor >}}
 ----------------------------------------
@@ -63,7 +69,7 @@ Materials: "hair", appropriate adhesive, bias tape.
 
 Pollack, Rachel E. "[Project(s): Wig/Hat Hybrids!](http://labricoleuse.livejournal.com/84204.html)" _La Bricoleuse_, October 21, 2008. (scroll to student projects at the end)
 
-[Student Work Photos]({{< baseurl >}}/pages/image-galleries/wigs-gallery)
+{{% resource_link 7f1ad22d-f24e-4656-96fb-9e24897d7c86 "Student Work Photos" %}}
 
 {{< anchor "Masks" >}}Masks{{< /anchor >}}
 ------------------------------------------
@@ -74,7 +80,7 @@ Materials: paints, embellishments, fabrics.
 
 ### Resources
 
-Concepts for Masks ([PDF]({{< baseurl >}}/resources/mit21m_715f09_masks))
+Concepts for Masks ({{% resource_link fb0ea813-e038-08fa-492a-8b3ff9f624c0 "PDF" %}})
 
 Becker, Jonathan. [_Custom Theater Masks_](http://theater-masks.com/).
 
@@ -82,7 +88,7 @@ Empire, Maxx. [_Mansour Designs_](http://www.modelmayhem.com/576226).
 
 [Florentine/Commedia dell’arte Masks](http://maskart.com/frames.html)
 
-[Student Work Photos]({{< baseurl >}}/pages/image-galleries/masks-gallery)
+{{% resource_link 23933a21-4540-535e-1edb-1c08844be331 "Student Work Photos" %}}
 
 {{< anchor "Jewelry" >}}Jewelry{{< /anchor >}}
 ----------------------------------------------
@@ -91,6 +97,6 @@ We will discuss techniques for creating jewelry pieces and then you will recreat
 
 ### Resources
 
-Examples of Period Jewelry ([PDF]({{< baseurl >}}/resources/mit21m_715f09_jewelry))
+Examples of Period Jewelry ({{% resource_link 12e76c70-1771-fb09-eae5-836941a77519 "PDF" %}})
 
-[Student Work Photos]({{< baseurl >}}/pages/image-galleries/jewelry-gallery)
+{{% resource_link 6cbcc899-bc44-aa21-95ee-282d6e19bade "Student Work Photos" %}}
