@@ -3,6 +3,7 @@ content_type: resource
 description: Examples of historical jewelry for an assignment to recreate a period
   piece of jewelry.
 file: /courses/21m-715-the-craft-of-costume-design-fall-2009/12e76c701771fb09eae5836941a77519_MIT21M_715F09_jewelry.pdf
+file_size: 609797
 file_type: application/pdf
 learning_resource_types:
 - Assignments
