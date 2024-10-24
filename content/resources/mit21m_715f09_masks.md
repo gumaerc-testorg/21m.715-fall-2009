@@ -2,7 +2,7 @@
 content_type: resource
 description: A list of concepts to explore for an assignment on designing and crafting
   masks.
-file: /courses/21m-715-the-craft-of-costume-design-fall-2009/fb0ea813e03808fa492a8b3ff9f624c0_MIT21M_715F09_masks.pdf
+file: /ol-ocw-studio-app/courses/21m-715-the-craft-of-costume-design-fall-2009/fb0ea813e03808fa492a8b3ff9f624c0_MIT21M_715F09_masks.pdf
 file_size: 50532
 file_type: application/pdf
 learning_resource_types:
