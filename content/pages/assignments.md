@@ -30,7 +30,7 @@ Materials: Light colored jacket from the thrift store, stamps, stencils, paints,
 
 ### Resources
 
-{{% resource_link "50e999ea-1b0a-4855-8d77-0fe3144e9a91" "Distressing Fabric" %}}. *Alley Cat Scratch*, April 22, 2008.
+[Distressing Fabric](http://www.alleycatscratch.com/lotr/Fabric/Distressing.htm). *Alley Cat Scratch*, April 22, 2008.
 
 {{% resource_link "f4be1332-9e4d-5996-8106-11f045de8015" "Student Work Photos" %}}
 
@@ -48,9 +48,9 @@ Materials: craft foam (5 or more sheets), metallic paints, talons, jewels or oth
 
 ### Resources
 
-Pollack, Rachel E. "{{% resource_link "84c9f7fe-17f1-437a-aa70-346fd54c5ba0" "Classwork: Final Armor Projects" %}}." *La Bricoleuse*, December 4, 2007.
+Pollack, Rachel E. "[Classwork: Final Armor Projects](http://labricoleuse.livejournal.com/44111.html)." *La Bricoleuse*, December 4, 2007.
 
-"{{% resource_link "85ab959f-48cf-470c-9129-17a5031d9a00" "Faking Leather" %}}." *Alley Cat Scratch*, April 22, 2008.
+"[Faking Leather](http://www.alleycatscratch.com/lotr/Leather/FakingLeather.htm)." *Alley Cat Scratch*, April 22, 2008.
 
 {{% resource_link "4f6534c9-4946-8568-b07a-6c093cd5a03b" "Student Work Photos" %}}
 
@@ -62,7 +62,7 @@ Materials: "hair", appropriate adhesive, bias tape.
 
 ### Resources
 
-Pollack, Rachel E. "{{% resource_link "879d7edd-bc55-4cbc-9705-8923d46ef8fa" "Project(s): Wig/Hat Hybrids!" %}}" *La Bricoleuse*, October 21, 2008. (scroll to student projects at the end)
+Pollack, Rachel E. "[Project(s): Wig/Hat Hybrids!](http://labricoleuse.livejournal.com/84204.html)" *La Bricoleuse*, October 21, 2008. (scroll to student projects at the end)
 
 {{% resource_link "7f1ad22d-f24e-4656-96fb-9e24897d7c86" "Student Work Photos" %}}
 
@@ -76,9 +76,9 @@ Materials: paints, embellishments, fabrics.
 
 Concepts for Masks ({{% resource_link "fb0ea813-e038-08fa-492a-8b3ff9f624c0" "PDF" %}})
 
-Becker, Jonathan. {{% resource_link "3f4d7227-00cf-4a35-bf72-ac27e5fb6250" "*Custom Theater Masks*" %}}.
+Becker, Jonathan. [*Custom Theater Masks*](http://theater-masks.com/).
 
-Empire, Maxx. {{% resource_link "535405ae-66e4-4189-becd-3c370ff428ee" "*Mansour Designs*" %}}.
+Empire, Maxx. [*Mansour Designs*](http://www.modelmayhem.com/576226).
 
 {{% resource_link "23933a21-4540-535e-1edb-1c08844be331" "Student Work Photos" %}}
 
